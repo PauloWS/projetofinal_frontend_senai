@@ -1,0 +1,49 @@
+[
+        {
+                "nome": "Uma verdadeira machadada na cabeça. Para adorardores do real old school Black Metal",
+                "preco": "50,90",
+                "urlimg": "img/hellammer1.jpg"
+        },
+        {
+                "nome": "O que falar desse disco? Apenas escute e seja levado as trevas",
+                "preco": "50,90",
+                "urlimg": "img/bathory.jpg"
+        },
+        {
+                "nome": "Uma obra prima. Riffs pesados e uma atmosfera densa",
+                "preco": "50,90",
+                "urlimg": "img/celtic frost2.jpg"
+        },
+        {
+                "nome": "Satanás veio para ficar. Ele chega arrebatando as almas mais impuras nesse disco desses noruegueses.",
+                "preco": "50,90",
+                "urlimg": "img/darkthrone.jpg"
+        },
+        {
+                "nome": "Clima pesado e um convite as terras sombrias.",
+                "preco": "50,90",
+                "urlimg": "img/emperor1.jpg"
+        },
+        {
+                "nome": "Frio e espetacular. Nada mais.",
+                "preco": "50,90",
+                "urlimg": "img/burzum.jpg"
+        },
+        {
+                "nome": "Um disco impuro e cheio de ódio.",
+                "preco": "50,90",
+                "urlimg": "img/immortal.jpg"
+        },
+        {
+                "nome": "Jesus está morto e o Anticristo chegou.",
+                "preco": "50,90",
+                "urlimg": "img/gorgoroth.jpg"
+        },
+        {
+                "nome": "Um Clássico.",
+                "preco": "50,90",
+                "urlimg": "img/sarcofago.jpg"
+        }
+
+
+]

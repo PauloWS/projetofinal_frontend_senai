@@ -1,0 +1,49 @@
+[
+    {
+            "nome": "O melhor Black Metal do leste e talvez do mundo",
+            "preco": "50,90",
+            "urlimg": "img/master´shammer.jpg"
+    },
+    {
+            "nome": "Old School Black Metal Italiano",
+            "preco": "50,90",
+            "urlimg": "img/mortuarydrape.jpg"
+    },
+    {
+            "nome": "Black Metal, nada mais",
+            "preco": "50,90",
+            "urlimg": "img/mystifier.jpg"
+    },
+    {
+            "nome": "Cara, que disco é esse?",
+            "preco": "50,90",
+            "urlimg": "img/samael.jpg"
+    },
+    {
+            "nome": "Noruega mais uma vez trazendo seu frio.",
+            "preco": "50,90",
+            "urlimg": "img/satyricon.jpg"
+    },
+    {
+            "nome": "Cult e orgulho brasileiro.",
+            "preco": "50,90",
+            "urlimg": "img/sextrash.jpg"
+    },
+    {
+            "nome": "Old School Black Metal Brasileiro.",
+            "preco": "50,90",
+            "urlimg": "img/vulcano.jpg"
+    },
+    {
+            "nome": "Profanando...",
+            "preco": "50,90",
+            "urlimg": "img/profanatica.jpg"
+    },
+    {
+            "nome": "Extremo.",
+            "preco": "50,90",
+            "urlimg": "img/oldfuneral.jpg"
+    }
+
+
+]

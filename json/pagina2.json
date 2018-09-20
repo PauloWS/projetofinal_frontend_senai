@@ -1,0 +1,49 @@
+[
+    {
+            "nome": "Uma aula de Black Metal",
+            "preco": "50,90",
+            "urlimg": "img/desaster.jpg"
+    },
+    {
+            "nome": "Brutal e nervoso como deve ser",
+            "preco": "50,90",
+            "urlimg": "img/bestial.jpg"
+    },
+    {
+            "nome": "Cru e ríspido Black Metal",
+            "preco": "50,90",
+            "urlimg": "img/bestialsummoning.jpg"
+    },
+    {
+            "nome": "Esses caras conseguem destruir tudo",
+            "preco": "50,90",
+            "urlimg": "img/destroyer666.jpg"
+    },
+    {
+            "nome": "Viking Metal até o talo.",
+            "preco": "50,90",
+            "urlimg": "img/enslaved.jpg"
+    },
+    {
+            "nome": "O traidor arregaça nesse disco cult.",
+            "preco": "50,90",
+            "urlimg": "img/judasiscariot.jpg"
+    },
+    {
+            "nome": "Finlândia nos brinda com esse clássico do Black Metal.",
+            "preco": "50,90",
+            "urlimg": "img/impalednazarene.jpg"
+    },
+    {
+            "nome": "Cuidado para não se matar ao escutar essa obra prima.",
+            "preco": "50,90",
+            "urlimg": "img/katatonia.jpg"
+    },
+    {
+            "nome": "Prepare sua carne podre.",
+            "preco": "50,90",
+            "urlimg": "img/maniacbutcher.jpg"
+    }
+
+
+]
