@@ -1,48 +1,48 @@
 [
     {
-            "nome": "O melhor Black Metal do leste e talvez do mundo",
+            "nome": "Ol School Black Metal",
             "preco": "50,90",
-            "urlimg": "img/master´shammer.jpg"
+            "urlimg": "img/carpathianforest.jpg"
     },
     {
-            "nome": "Old School Black Metal Italiano",
+            "nome": "Banda da nova geração muito foda",
             "preco": "50,90",
-            "urlimg": "img/mortuarydrape.jpg"
+            "urlimg": "img/cultoffire.jpg"
     },
     {
             "nome": "Black Metal, nada mais",
             "preco": "50,90",
-            "urlimg": "img/mystifier.jpg"
+            "urlimg": "img/ulver.jpg"
     },
     {
             "nome": "Cara, que disco é esse?",
             "preco": "50,90",
-            "urlimg": "img/samael.jpg"
+            "urlimg": "img/varathron.jpg"
     },
     {
-            "nome": "Noruega mais uma vez trazendo seu frio.",
+            "nome": "Culto ao bode.",
             "preco": "50,90",
-            "urlimg": "img/satyricon.jpg"
+            "urlimg": "img/von.jpg"
     },
     {
-            "nome": "Cult e orgulho brasileiro.",
+            "nome": "Cult e Obscuro.",
             "preco": "50,90",
-            "urlimg": "img/sextrash.jpg"
+            "urlimg": "img/watain.jpg"
     },
     {
-            "nome": "Old School Black Metal Brasileiro.",
+            "nome": "O maior clássico do Black Metal Norueguês.",
             "preco": "50,90",
-            "urlimg": "img/vulcano.jpg"
+            "urlimg": "img/mayhem.jpg"
     },
     {
-            "nome": "Profanando...",
+            "nome": "Foda demais",
             "preco": "50,90",
-            "urlimg": "img/profanatica.jpg"
+            "urlimg": "img/necromass.jpg"
     },
     {
-            "nome": "Extremo.",
+            "nome": "Grécia...",
             "preco": "50,90",
-            "urlimg": "img/oldfuneral.jpg"
+            "urlimg": "img/nergal.jpg"
     }
 
 
