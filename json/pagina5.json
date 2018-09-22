@@ -1,0 +1,49 @@
+[
+    {
+            "nome": "Ol School Black Metal",
+            "preco": "50,90",
+            "urlimg": "img/ancientrites.jpg"
+    },
+    {
+            "nome": "Old School Black Metal Sueco",
+            "preco": "50,90",
+            "urlimg": "img/bewitched.jpg"
+    },
+    {
+            "nome": "Nada a comentar",
+            "preco": "50,90",
+            "urlimg": "img/destruction.jpg"
+    },
+    {
+            "nome": "Grécia é foda",
+            "preco": "50,90",
+            "urlimg": "img/necromantia.jpg"
+    },
+    {
+            "nome": "Suécia e seu frio.",
+            "preco": "50,90",
+            "urlimg": "img/nifelheim.jpg"
+    },
+    {
+            "nome": "Cult Black Metal Grego.",
+            "preco": "50,90",
+            "urlimg": "img/rottingchrist.jpg"
+    },
+    {
+            "nome": "Um clássico.",
+            "preco": "50,90",
+            "urlimg": "img/septicfles.jpg"
+    },
+    {
+            "nome": "Que disco,Ahhhhhhhhhhh",
+            "preco": "50,90",
+            "urlimg": "img/slayer.jpg"
+    },
+    {
+            "nome": "Sem comentários essa máquina alemã",
+            "preco": "50,90",
+            "urlimg": "img/sodom.jpg"
+    }
+
+
+]
