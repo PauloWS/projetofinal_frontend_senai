@@ -8,6 +8,7 @@
     <meta name="author" content="">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="js/json.js"></script>
+    <script src="js/contato.js"></script>
 
     <title>Album example for Bootstrap</title>
 
@@ -79,28 +80,32 @@
 
         <div class="album py-5 bg-light">
             <div class="container">
-                <form action="" class="form-group">
+                <form id="contatos">
                     <div class="row">
                         <div class="col-md-6">
-                            <input class="form-control mt-3" type="text" placeholder="Nome">
+                            <input class="form-control mt-3" type="text" placeholder="Nome" id="nome">
+                            <div id="nomeErro"></div>
                         </div>
                         <div class="col-md-6">
-                            <input class="form-control mt-3" type="email" placeholder="E-mail">
+                            <input class="form-control mt-3" type="email" placeholder="E-mail" id="email">
+                            <div id="emailErro"></div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <input class="form-control mt-3" type="text" placeholder="Assunto">
+                            <input class="form-control mt-3" type="text" placeholder="Assunto" id="assunto">
+                            <div id="assuntoErro"></div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <textarea class="form-control mt-3" name="" id="" cols="30" rows="10" placeholder="Enviar Mensagem"></textarea>
+                            <textarea class="form-control mt-3" name="" id="" cols="30" rows="10" placeholder="Enviar Mensagem" id="msg"></textarea>
+                            <div id="msgErro"></div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <button class="btn btn-success mt-3">Enviar Mensagem</button>
+                            <input type="submit" class="btn btn-success mt-3" class="btn btn-success" value="Enviar Mensagem">
                         </div>
                     </div>
                 </form>
